@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 test_variable = "BOB is your uncle"
 
